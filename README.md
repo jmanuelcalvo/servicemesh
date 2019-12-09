@@ -18,3 +18,10 @@ PROJECT=bookinfo
 PROJECT_ISTIO=bookretail-istio-system
 ```
 
+# OpenShift Cluster
+```
+Console: https://console-openshift-console.apps.cluster-40b3.40b3.sandbox1154.opentlc.com
+API: https://api.cluster-40b3.40b3.sandbox1154.opentlc.com:6443
+Username: admin
+Password: << default pw >>
+```

@@ -12,8 +12,9 @@ Before you start, make sure you have the following installed Operators in your O
 
 This script is responsable for performing the Installation of the Red Hat Service Mesh Operator, make sure you have the following data from your OpenShift platform:
 
+```
 WILDCARD=apps.cluster-40b3.40b3.sandbox1154.opentlc.com
 PROJECT=bookinfo
 PROJECT_ISTIO=bookretail-istio-system
-
+```
 

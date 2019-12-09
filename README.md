@@ -1,4 +1,4 @@
-Shell to configure:
+# Shell to configure:
 1. A microservices aplications
 2. Setup Red Hat Service Mesh to into a project
 3. Configure Service Mesh Gateways, Policies, Destination Rules, Virtual Services, Routes
